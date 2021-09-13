@@ -3,8 +3,8 @@
     "code-pattern-custom-language-model": [
       {
         "credentials": {
-          "apikey": "<your api key>",
-          "url": "<your api url>"
+          "apikey": "Hx9IXYkD0MsGeyGs432Cn0jd4rr2rfDPA7C6cADhH4ZI",
+          "url": "https://api.eu-gb.speech-to-text.watson.cloud.ibm.com/instances/d246d664-a09b-458a-a275-6a158936e559"
         },
         "label": "speech_to_text",
         "name": "code-pattern-custom-language-model"
