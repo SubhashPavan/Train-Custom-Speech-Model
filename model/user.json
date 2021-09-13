@@ -1,14 +1,20 @@
 {
-  "user1": {
-    "password": "user1",
-    "langModel": "custom-model-1",
-    "acousticModel": "acoustic-model-1",
-    "baseModel": "en-US_NarrowbandModel"
+  "pavan": {
+    "password": "welcome!23",
+    "langModel": "MSA_LG_1",
+    "acousticModel": "MSA_AG_1",
+    "baseModel": "en-GB_Telephony"
   },
-  "user2": {
-    "password": "user2",
-    "langModel": "custom-model-2",
-    "acousticModel": "acoustic-model-2",
-    "baseModel": "en-US_NarrowbandModel"
+  "sneha": {
+    "password": "welcome!23",
+    "langModel": "MSA_LG_1",
+    "acousticModel": "MSA_AG_1",
+    "baseModel": "en-GB_Telephony"
+  },
+  "lekha": {
+    "password": "welcome!23",
+    "langModel": "MSA_LG_1",
+    "acousticModel": "MSA_AG_1",
+    "baseModel": "en-GB_Telephony"
   }
 }
